@@ -31,7 +31,7 @@ Description of what Project 1 does.
 Description of what Project 2 does.
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishupadhyay123&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishupadhyay123&layout=compact&theme=radical)
